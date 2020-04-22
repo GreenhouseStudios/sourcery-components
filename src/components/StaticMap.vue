@@ -3,6 +3,10 @@
 </template>
 
 <script>
+/**
+ * Documentation Help
+ * @url https://vue-styleguidist.github.io/docs/Documenting.html#code-comments
+ */
 import querystring from 'querystring';
 
 	export default {
